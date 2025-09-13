@@ -11,7 +11,7 @@ html {
 .cNavbar{
   background-color:#F09FF6;
   width:100%;
-  height: 7.5vh;
+  height: 5vh;
 }
 
 .ulNavbar{
@@ -26,7 +26,7 @@ html {
   padding: 10px;
   margin: 5px;
   color:white;
-  font-size: 25px;
+  font-size: 75px;
 }
 
 .liNavbar:hover{
@@ -47,7 +47,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80vh;
+  height: 85vh;
 }
 
 .aContent{
@@ -74,7 +74,7 @@ html {
 }
 
 .cFooter{
-  height: 12.5vh;
+  height: 10vh;
   background-color: #c0afea;
   display: flex;
   justify-content: center;
@@ -82,6 +82,6 @@ html {
 }
 
 .h1Footer{
-  font-size: 20px;
+  font-size: 70px;
   color: white;
 }
